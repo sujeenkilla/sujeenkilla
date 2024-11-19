@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sujeen Killa</h1>
 <h3 align="center">I am an Engineer, who codes!</h3>
+<h4>👨‍💻 Getting Stronger at DSA with C++ & learning Angular along with ASP.Net & Cloud.</h4>
+<h4>📚 I’m currently learning everything about Frontend and Backend technologies.</h4>
+<h4>💪🏼 Future Goals: Learn more technologies - Never stop learning and creating new ideas.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeenkilla&label=Profile%20views&color=0e75b6&style=flat" alt="sujeenkilla" /> </p>
 
